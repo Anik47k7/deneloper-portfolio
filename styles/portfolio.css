@@ -17,6 +17,7 @@
     border: 0;
     padding: 18px 35px;
 }
+
 .kon {
     margin-left: 50px;
     color: #FD6E0A;
@@ -26,7 +27,6 @@
     width: 160px;
     height: 60px;
     border-radius: 8px;
-
 }
 .header {
     background: #FFF8F3;
@@ -66,13 +66,14 @@ nav ul {
 
 .banner-title {
     font-weight: 700;
-    font-size: 80px;
+    font-size: 50px;
+    margin-bottom: 10px;
 }
 
 .banner-sub-title {
     font-weight: 600;
-    font-size: 45px;
-    margin-bottom: 20px;
+    font-size: 35px;
+    margin-bottom: 0px;
 }
 
 .banner-description {
