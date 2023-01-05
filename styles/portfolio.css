@@ -17,7 +17,17 @@
     border: 0;
     padding: 18px 35px;
 }
+.kon {
+    margin-left: 50px;
+    color: #FD6E0A;
+    font-size: 20px;
+    border-color: #FD6E0A;
+    padding: 0 20px;
+    width: 160px;
+    height: 60px;
+    border-radius: 8px;
 
+}
 .header {
     background: #FFF8F3;
     background-image: url(../images/header_bg.png), url(/images/developer.png);
@@ -34,7 +44,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 nav li {
@@ -143,14 +153,14 @@ section{
 }
 .resume .title{
     font-weight: 700;
-    font-size: 25px;
+    font-size: 22px;
     color: #474747; 
     margin-bottom: 10px;
 }
 .resume .sub-title{
 color: #757575;
 font-weight: 600;
-font-size: 20px;
+font-size: 18px;
 margin-bottom: 20px;
 }
 .resume .description{
